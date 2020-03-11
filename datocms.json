@@ -1,7 +1,7 @@
 {
   "name": "React GraphQL",
   "previewImage": "https://raw.githubusercontent.com/datocms/react-graphql-demo/master/screenshot.png",
-  "templateId": "13808",
+  "templateId": "205",
   "deploymentType": "static",
   "netlifyBuildCommand": "yarn build",
   "netlifyBuildDirectory": "build",
